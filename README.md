@@ -12,15 +12,15 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adel-noufal&label=Profile+Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
   &nbsp;
-  <a href="https://github.com/adel-noufal?tab=followers">
+  <a href="https://github.com/adel-noufal?tab=followers" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/github/followers/adel-noufal?label=Followers&style=for-the-badge&color=7c3aed&labelColor=0d1117" alt="Followers" />
   </a>
   &nbsp;
-  <a href="https://github.com/adel-noufal">
+  <a href="https://github.com/adel-noufal" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Location-Egypt%20%7C%20Dubai-00d4ff?style=for-the-badge&labelColor=0d1117" alt="Location" />
   </a>
   &nbsp;
-  <a href="mailto:Adel.moh129649@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=Adel.moh129649@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Contact-Email%20Me-f59e0b?style=for-the-badge&labelColor=0d1117" alt="Email" />
   </a>
 </p>
@@ -100,23 +100,23 @@ me.say_hi()
 
 <div align="center">
 
-<a href="mailto:Adel.moh129649@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=Adel.moh129649@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/adel-noufal-3a9440348" target="_blank">
+<a href="https://linkedin.com/in/adel-noufal-3a9440348" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="https://github.com/adel-noufal" target="_blank">
+<a href="https://github.com/adel-noufal" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;
-<a href="https://www.facebook.com/adel.noufal.26786" target="_blank">
+<a href="https://www.facebook.com/adel.noufal.26786" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 &nbsp;
-<a href="https://www.instagram.com/adel.moh129649" target="_blank">
+<a href="https://www.instagram.com/adel.moh129649" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
