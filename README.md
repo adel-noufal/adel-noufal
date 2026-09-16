@@ -10,6 +10,8 @@
 <br/><br/>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adel-noufal&label=Profile+Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
   <a href="https://github.com/adel-noufal?tab=followers">
     <img src="https://img.shields.io/github/followers/adel-noufal?label=Followers&style=for-the-badge&color=7c3aed&labelColor=0d1117" alt="Followers" />
   </a>
@@ -76,17 +78,6 @@ me.say_hi()
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Overview
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adel-noufal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=adel-noufal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
