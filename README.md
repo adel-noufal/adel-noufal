@@ -52,6 +52,14 @@ me.say_hi()
 
 ---
 
+## 📊 GitHub Stats & Activity
+
+| ⚡ Total Contributions (2026) | 🔥 Current Streak | 🏆 Longest Streak | 📦 Repositories | ⭐ Total Stars |
+| :---: | :---: | :---: | :---: | :---: |
+| **49+** | **3 Days** | **3 Days** | **8 Public** | **7 Received** |
+
+---
+
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
@@ -104,7 +112,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/adel-noufal-3a9440348" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/adel-mohamed-noufal-3a9440348/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
