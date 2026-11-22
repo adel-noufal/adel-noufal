@@ -71,30 +71,51 @@ class AIEngineer:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Featured Projects
+<!-- FEATURED PROJECTS (centered) -->
+<h2 align="center">🚀 Featured Projects</h2>
 
-| Project | Description |
-| --- | --- |
-| 🎓 **[EduSense 2](https://github.com/adel-noufal/Edusense)** | Multi-agent AI education platform. Custom PyTorch EfficientNet-B0 reaches 90.9% accuracy over 7 emotion classes, with 7 specialized agents for engagement, pedagogy, content, retrieval and PDF reporting. |
-| 📦 **[StockPad](https://github.com/adel-noufal/Stockpad-Web-2)** | Full-stack operations platform. |
-| 🧠 **[Fahmak](https://github.com/adel-noufal/fahmak)** | AI project built with Python. |
-| 💍 **[AfraahPad](https://github.com/adel-noufal/Smart-Wedding-System-AfraahPad)** | Smart wedding management system. |
-| ⏱️ **[Progress-Counter](https://github.com/adel-noufal/Progress-Counter)** | Progress tracking UI built with CSS. |
+<div align="center">
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>🎓 <b><a href="https://github.com/adel-noufal/Edusense">EduSense 2</a></b></td>
+    <td>Multi-agent AI education platform. Custom PyTorch EfficientNet-B0 reaches 90.9% accuracy over 7 emotion classes, with 7 specialized agents for engagement, pedagogy, content, retrieval and PDF reporting.</td>
+  </tr>
+  <tr>
+    <td>📦 <b><a href="https://github.com/adel-noufal/Stockpad-Web-2">StockPad</a></b></td>
+    <td>Full-stack operations platform.</td>
+  </tr>
+  <tr>
+    <td>🧠 <b><a href="https://github.com/adel-noufal/fahmak">Fahmak</a></b></td>
+    <td>AI project built with Python.</td>
+  </tr>
+  <tr>
+    <td>💍 <b><a href="https://github.com/adel-noufal/Smart-Wedding-System-AfraahPad">AfraahPad</a></b></td>
+    <td>Smart wedding management system.</td>
+  </tr>
+  <tr>
+    <td>⏱️ <b><a href="https://github.com/adel-noufal/Progress-Counter">Progress-Counter</a></b></td>
+    <td>Progress tracking UI built with CSS.</td>
+  </tr>
+</table>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ Tech Stack & Tools
+<!-- TECH STACK (centered) -->
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
-### 💻 Languages & Core Skills
-
-<p>
+<h3 align="center">💻 Languages & Core Skills</h3>
+<p align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
   <img src="https://skillicons.dev/icons?i=js,java,html,css,git,github,vscode,linux" />
 </p>
 
-### 🤖 AI / ML Stack (Hands-on Experience)
-
-<p>
+<h3 align="center">🤖 AI / ML Stack (Hands-on Experience)</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
@@ -104,9 +125,8 @@ class AIEngineer:
   <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white" />
 </p>
 
-### 📊 Data Science Stack
-
-<p>
+<h3 align="center">📊 Data Science Stack</h3>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50" />
@@ -114,9 +134,8 @@ class AIEngineer:
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-### 🌐 Backend & Web
-
-<p>
+<h3 align="center">🌐 Backend & Web</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -181,36 +200,39 @@ Python automation &<br/>AI/ML projects
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💭 Philosophy & Approach
+<!-- PHILOSOPHY (centered) -->
+<h2 align="center">💭 Philosophy & Approach</h2>
 
+<div align="center">
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="50%">
 
-### 🎯 My Learning Style
-```yaml
-approach: hands-on
-mindset: growth-oriented
-method: learn → build → improve → repeat
-focus: real-world applications
+<h3>🎯 My Learning Style</h3>
+
+approach: hands-on<br/>
+mindset: growth-oriented<br/>
+method: learn → build → improve → repeat<br/>
+focus: real-world applications<br/>
 belief: consistency > intensity
-```
 
 </td>
-<td width="50%">
+<td align="center" width="50%">
 
-### 🌟 Core Values
-📚 **Continuous Learning**<br/>
-🔨 **Building Over Watching**<br/>
-🤝 **Community Contribution**<br/>
-💡 **Problem-Solving First**<br/>
-🎯 **Quality Over Quantity**
+<h3>🌟 Core Values</h3>
+
+📚 <b>Continuous Learning</b><br/>
+🔨 <b>Building Over Watching</b><br/>
+🤝 <b>Community Contribution</b><br/>
+💡 <b>Problem-Solving First</b><br/>
+🎯 <b>Quality Over Quantity</b>
 
 </td>
 </tr>
 </table>
 
-> *"Learning, building, and growing — one commit at a time."*
+<blockquote><i>"Learning, building, and growing — one commit at a time."</i></blockquote>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
